@@ -1,0 +1,1 @@
+* 1 * * * /bin/spark-submit /home/bhanub313965742/dataeng_test-master/csvprocess.py > /home/bhanub313965742/dataeng_test-master/ 2>&1 &
